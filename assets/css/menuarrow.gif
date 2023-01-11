@@ -1,0 +1,5 @@
+﻿﻿<h1>Except</h1>
+<p>Class assetsController  no exist! (/var/www/kzl.sppl.su/httpdocs/ideal/classes/Singleton.php:14)</p><pre>#0 /var/www/kzl.sppl.su/httpdocs/ideal/classes/Singleton.php(17): Singleton::getInstance()
+#1 /var/www/kzl.sppl.su/httpdocs/ideal/classes/App.php(20): Singleton::gI()
+#2 /var/www/kzl.sppl.su/httpdocs/index.php(8): App->start()
+#3 {main}</pre>
